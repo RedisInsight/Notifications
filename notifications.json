@@ -1,5 +1,12 @@
 {
-  "notifications": [  
+  "notifications": [
+          {
+            "title": "Introducing Redis 7.2",
+            "body": "New <a href=\"https://redis.com/blog/introducing-redis-7-2/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">Redis 7.2</a> has something for all practitioners - from making it easy to get started with the programming language of your choice, to integrating Redis with existing data sources, or staying ahead of competitors with generative AI, and much more.",
+            "category": "release",
+            "categoryColor": "#805A0D",
+            "timestamp": 1693309020
+        },    
           {
             "title": "RedisGraph End of Life",
             "body": "Redis Inc. has announced the end-of-life of <b>RedisGraph</b>. We will carry out the process gradually, and in accordance with our commitment to our customers. <p> If you are using RedisGraph - please read the <a href=\"https://redis.com/blog/redisgraph-eol\" target=\"_blank\">following</a> carefully.",
