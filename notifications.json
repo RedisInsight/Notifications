@@ -2,7 +2,7 @@
   "notifications": [
           {
             "title": "Introducing Redis 7.2",
-            "body": "New <a href=\"https://redis.com/blog/introducing-redis-7-2/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">Redis 7.2</a> has something for all practitioners - from making it easy to get started with the programming language of your choice, to integrating Redis with existing data sources, or staying ahead of competitors with generative AI, and much more.",
+            "body": "<a href=\"https://redis.com/blog/introducing-redis-7-2/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">Redis 7.2</a> brings memory and speed optimizations, encompasses a significant investment in the functionality that supports AI initiatives, and more. <p> New version introduces a broad set of new features, including <b>Geo polygon</b> queries for basic shapes in <b>Search and Query</b>, and the preview of <b>triggers and functions</b> to execute JavaScript code within the database.",
             "category": "release",
             "categoryColor": "#805A0D",
             "timestamp": 1693309020
