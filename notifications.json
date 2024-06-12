@@ -1,18 +1,25 @@
 {
-  "notifications": [
-          {
+    "notifications": [
+        {
+            "title": "First Release Candidate of Redis Community Edition 7.4 is out!",
+            "body": "New: support for <a href=\"https://redis.io/docs/latest/develop/data-types/hashes/?utm_source=redisinsight&utm_medium=main&utm_campaign=tutorials#field-expiration\" target=\"_blank\">setting expiration for individual hash fields</a>. <p> Check out the <a href=\"https://github.com/redis/redis/releases/tag/7.4-rc1\" target=\"_blank\">release notes.</a> <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker</a>.",
+            "category": "release",
+            "categoryColor": "#805A0D",
+            "timestamp": 1718197973
+        },
+        {
             "title": "RedisGraph End of Life",
             "body": "Redis Inc. has announced the end-of-life of <b>RedisGraph</b>. We will carry out the process gradually, and in accordance with our commitment to our customers. <p> If you are using RedisGraph - please read the <a href=\"https://redis.com/blog/redisgraph-eol\" target=\"_blank\">following</a> carefully.",
             "category": "important",
             "categoryColor": "#800D0D",
             "timestamp": 1688549037
-        },    
-    {
+        },
+        {
             "title": "Missing a feature or found a bug?",
             "body": "Would you like to see specific features added or have a bug to report? <p> <a href=\"https://github.com/RedisInsight/RedisInsight/issues\" target=\"_blank\">Share</a> it with us! <p> And <b>star</b> the repository if you like RedisInsight!",
             "category": "feedback",
             "categoryColor": "#330D80",
             "timestamp": 1662381434
         }
-  ]
+    ]
 }
