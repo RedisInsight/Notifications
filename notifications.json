@@ -1,6 +1,13 @@
 {
   "notifications": [  
-          {
+    {
+            "title": "First Release Candidate of Redis Community Edition 7.4 is out!",
+            "body": "New: support for <a href=\"https://redis.io/docs/latest/develop/data-types/hashes/?utm_source=redisinsight&utm_medium=main&utm_campaign=tutorials#field-expiration" target=\"_blank\">setting expiration for individual hash fields</a>. Check out the <a href=\"https://github.com/redis/redis/releases/tag/7.4-rc1" target=\"_blank\">release notes.</a> <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags" target=\"_blank\">Docker</a>.",
+            "category": "release",
+            "categoryColor": "#805A0D",
+            "timestamp": 1688549037
+        },   
+    {
             "title": "RedisGraph End of Life",
             "body": "Redis Inc. has announced the end-of-life of <b>RedisGraph</b>. We will carry out the process gradually, and in accordance with our commitment to our customers. <p> If you are using RedisGraph - please read the <a href=\"https://redis.com/blog/redisgraph-eol\" target=\"_blank\">following</a> carefully.",
             "category": "important",
