@@ -2,7 +2,7 @@
     "notifications": [
         {
             "title": "Announcing Redis Community Edition and Redis Stack 7.4",
-            "body": "Redis 7.4 Community Edition includes the highly requested hash field expiration feature, new vector data types to significantly reduce ‌memory usage, and time series insertion filters. <p> Check out the <a href=\"https://redis.io/blog/announcing-redis-community-edition-and-redis-stack-74/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post.</a> <p> Get it from <a href=\"https://hub.docker.com/r/redis/redis-stack/tags\" target=\"_blank\">Docker</a>.",
+            "body": "Redis 7.4 Community Edition includes the highly requested hash field expiration feature, new vector data types to significantly reduce ‌memory usage, and time series insertion filters. <p> Check out the <a href=\"https://redis.io/blog/announcing-redis-community-edition-and-redis-stack-74/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a> for more details. <p> Get it from <a href=\"https://hub.docker.com/r/redis/redis-stack/tags\" target=\"_blank\">Docker</a>.",
             "category": "release",
             "categoryColor": "#805A0D",
             "timestamp": 1722517736
