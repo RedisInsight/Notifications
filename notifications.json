@@ -1,11 +1,11 @@
 {
     "notifications": [
         {
-            "title": "First Release Candidate of Redis Community Edition 7.4 is out!",
-            "body": "New: support for <a href=\"https://redis.io/docs/latest/develop/data-types/hashes/?utm_source=redisinsight&utm_medium=notifications&utm_campaign=rc-7.4#field-expiration\" target=\"_blank\">setting expiration for individual hash fields</a>. <p> Check out the <a href=\"https://github.com/redis-stack/redis-stack/releases/tag/v7.4.0-rc1\" target=\"_blank\">release notes.</a> <p> Get it from <a href=\"https://hub.docker.com/r/redis/redis-stack/tags\" target=\"_blank\">Docker</a>.",
+            "title": "Redis Community Edition and Redis Stack 7.4 - now GA!",
+            "body": "7.4 includes the highly requested hash field expiration feature, new vector data types to significantly reduce ‌memory usage, and time series insertion filters. <p> Check out the <a href=\"https://redis.io/blog/announcing-redis-community-edition-and-redis-stack-74/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a> for more details. <p> Get it from <a href=\"https://hub.docker.com/r/redis/redis-stack/tags\" target=\"_blank\">Docker</a>.",
             "category": "release",
             "categoryColor": "#805A0D",
-            "timestamp": 1718197973
+            "timestamp": 1722517736
         },
         {
             "title": "Missing a feature or found a bug?",
