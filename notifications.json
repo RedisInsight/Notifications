@@ -5,7 +5,7 @@
             "body": "Redis 8 is the most advanced and performant Redis offering yet. <p> It introduces seven new data structures — JSON, time series, and five probabilistic types — along with the fastest and most scalable Redis query engine to date. <p> Check out the <a href=\"https://redis.io/blog/redis-8-0-m01-released-one-redis-for-every-use-case/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a> for more details. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker</a>.",
             "category": "release",
             "categoryColor": "#805A0D",
-            "timestamp": 1722517736
+            "timestamp": 1726759885
         },
         {
             "title": "Missing a feature or found a bug?",
