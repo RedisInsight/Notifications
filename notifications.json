@@ -1,8 +1,8 @@
 {
     "notifications": [
         {
-            "title": "Security Advisory: Upgrade your Redis version",
-            "body": "As part of an ongoing effort by the Redis Community and Redis to maintain Redis safety, security, and compliance posture, three security vulnerabilities in Redis have been published recently. <p> Learn more in the <a href=\"https://redis.io/blog/security-advisory-cve-2024-31449-cve-2024-31227-cve-2024-31228/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a>. <p> Get a new version from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker</a>.",
+            "title": "Security Advisory: CVE-2024-31449, CVE-2024-31227, CVE-2024-31228",
+            "body": "As part of an ongoing effort by the Redis Community and Redis to maintain Redis safety, security, and compliance posture, three security vulnerabilities in Redis have been published recently. <p> Learn more in the <a href=\"https://redis.io/blog/security-advisory-cve-2024-31449-cve-2024-31227-cve-2024-31228/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a>.",
             "category": "security",
             "categoryColor": "#800D0D",
             "timestamp": 1728403186
