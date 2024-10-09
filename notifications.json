@@ -5,7 +5,7 @@
             "body": "Recently, three Redis security vulnerabilities were found. If you’re using Redis Cloud, no action is needed as it’s already updated. For self-managed Redis (Software or Community versions), please upgrade promptly. <p> Learn more in our <a href=\"https://redis.io/blog/security-advisory-cve-2024-31449-cve-2024-31227-cve-2024-31228/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a> on how to protect your instance.",
             "category": "security",
             "categoryColor": "#800D0D",
-            "timestamp": 1728403186
+            "timestamp": 1728463510
         },
         {
             "title": "Redis 8.0-M01 released – One Redis for every use case",
