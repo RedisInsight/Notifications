@@ -1,18 +1,25 @@
 {
     "notifications": [
         {
+            "title": "Connect to Redis from Visual Studio Code",
+            "body": "Redis for VS Code brings the power of Redis directly into your favorite code editor! <p> Connect to your Redis databases from within Microsoft Visual Studio Code and enjoy the streamlined experience you already love in Redis Insight.  <p> Download Redis for VS Code from <a href=\"https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode\" target=\"_blank\">Visual Studio Marketplace</a>.",
+            "category": "release",
+            "categoryColor": "#805A0D",
+            "timestamp": 1729158813
+        },
+        {
+            "title": "Security Advisory: CVE-2024-31449, CVE-2024-31227, CVE-2024-31228",
+            "body": "Recently, three Redis security vulnerabilities were found. If you’re using Redis Cloud, no action is needed as it’s already updated. For self-managed Redis (Software or Community versions), please upgrade promptly. <p> Learn more in our <a href=\"https://redis.io/blog/security-advisory-cve-2024-31449-cve-2024-31227-cve-2024-31228/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a> on how to protect your instance.",
+            "category": "security",
+            "categoryColor": "#800D0D",
+            "timestamp": 1729065451
+        },
+        {
             "title": "Redis 8.0-M01 released – One Redis for every use case",
             "body": "Redis 8 is the most advanced and performant Redis offering yet. <p> It introduces seven new data structures — JSON, time series, and five probabilistic types — along with the fastest and most scalable Redis query engine to date. <p> Check out the <a href=\"https://redis.io/blog/redis-8-0-m01-released-one-redis-for-every-use-case/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a> for more details. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker</a>.",
             "category": "release",
             "categoryColor": "#805A0D",
             "timestamp": 1726759885
-        },
-        {
-            "title": "Missing a feature or found a bug?",
-            "body": "Would you like to see specific features added or have a bug to report? <p> <a href=\"https://github.com/RedisInsight/RedisInsight/issues\" target=\"_blank\">Share</a> it with us! <p> And <b>star</b> the repository if you like RedisInsight!",
-            "category": "feedback",
-            "categoryColor": "#330D80",
-            "timestamp": 1662381434
         }
     ]
 }
