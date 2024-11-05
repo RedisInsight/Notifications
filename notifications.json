@@ -2,7 +2,7 @@
     "notifications": [
         {
             "title": "Redis 8.0-M02 released – the fastest Redis ever",
-            "body": "The second milestone of Redis 8 is our most advanced and performant offering yet, available for you to try in Community Edition (CE) today. <p> It introduces major performance improvements. <p> The latency of many commonly used Redis commands has been significantly reduced. For example, up to 36% reduction in latency for ZADD, up to 28% for SMEMBERS, and up to 10% for HGETALL—compared to Redis 7.2.5. <p> Check out the <a href=\"https://redis.io/blog/redis-8-0-m02-the-fastest-redis-ever/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a> for more details. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker</a>.",
+            "body": "The second milestone of Redis 8 is our most advanced and performant offering yet, available for you to try in Community Edition (CE) today. <p> It introduces major performance improvements, including a significant reduction in latency for many commonly used Redis commands. For example, up to 36% reduction in latency for ZADD, up to 28% for SMEMBERS, and up to 10% for HGETALL—compared to Redis 7.2.5. <p> Check out the <a href=\"https://redis.io/blog/redis-8-0-m02-the-fastest-redis-ever/?utm_source=redisinsight&utm_medium=main&utm_campaign=notification\" target=\"_blank\">blog post</a> for more details. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker</a>.",
             "category": "release",
             "categoryColor": "#805A0D",
             "timestamp": 1730815814
