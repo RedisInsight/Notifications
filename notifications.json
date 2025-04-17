@@ -1,11 +1,11 @@
 {
     "notifications": [
         {
-            "title": "Redis 8.0-M04 is now available – the fastest Redis ever",
-            "body": "The fourth milestone of Redis 8 is our most advanced and high-performance offering yet, now available in the Community Edition (CE) for you to try.<p> It brings new hash commands, performance improvements, and memory defragmentation improvements. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker Hub</a>.",
+            "title": "Redis 8.0-RC1 is now available – the fastest Redis ever",
+            "body": "The first release candidate of Redis 8 is our most advanced and high-performance offering yet, now available in the Community Edition (CE) for you to try.<p> It includes a new beta data structure - vector set. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker Hub</a>.",
             "category": "release",
             "categoryColor": "#805A0D",
-            "timestamp": 1742480113
+            "timestamp": 1744360006
         },
         {
             "title": "Connect to Redis from Visual Studio Code",
