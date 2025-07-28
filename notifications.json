@@ -2,7 +2,7 @@
     "notifications": [
         {
             "title": "Redis MCP Server is available",
-            "body": "The <strong>Redis MCP Server</strong> is designed for agentic applications to efficiently manage and search data in Redis.<br><br>Try natural language commands like:<br><em>“Store the session with an expiration time”</em> or <em>“Index and search this vector”</em>.<br><br>Learn more on <a href=\"https://github.com/redis/mcp-redis\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a>.",
+            "body": "The <strong>Redis MCP Server</strong> is designed for agentic applications to efficiently manage and search data in Redis.<br><br>Try natural language queries like:<br><em>“Store the session with an expiration time”</em> or <em>“Index and search this vector”</em>.<br><br>Learn more on <a href=\"https://github.com/redis/mcp-redis\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a>.",
             "category": "release",
             "categoryColor": "#805A0D",
             "timestamp": 1753712822
