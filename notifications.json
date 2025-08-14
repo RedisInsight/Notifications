@@ -1,18 +1,18 @@
 {
     "notifications": [
         {
+            "title": "Redis 8.2 is now GA, loaded with more performance, efficiency, and new commands",
+            "body": "<a href=\"https://redis.io/blog/redis-82-ga/\" target=\"_blank\">Redis 8.2</a> introduces faster performance, more memory optimizations, and developer-friendly enhancements that make Redis even better at what it does best – making data real time for AI agents & apps. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker Hub</a>.",
+            "category": "release",
+            "categoryColor": "#805A0D",
+            "timestamp": 1755189979
+        },
+        {
             "title": "Redis MCP Server is available in preview",
             "body": "The <strong>Redis MCP Server</strong> is designed for agentic applications to efficiently manage and search data in Redis.<br><br>Try natural language queries like:<br><em>“Store the session with an expiration time”</em> or <em>“Index and search this vector”</em>.<br><br>Learn more on <a href=\"https://github.com/redis/mcp-redis\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a>.",
             "category": "release",
             "categoryColor": "#805A0D",
             "timestamp": 1753712822
-        },
-        {
-            "title": "Redis 8 is now GA, loaded with new features and improvements",
-            "body": "<a href=\"https://redis.io/blog/redis-8-ga/\" target=\"_blank\">Redis 8</a> is the most performant and scalable version of Redis yet. It has over 30 performance improvements and adds 8 more data structures, including vector set (beta). <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker Hub</a>.",
-            "category": "release",
-            "categoryColor": "#805A0D",
-            "timestamp": 1748858091
         },
         {
             "title": "Connect to Redis from Visual Studio Code",
