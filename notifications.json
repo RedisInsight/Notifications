@@ -1,8 +1,8 @@
 {
     "notifications": [
         {
-            "title": "Redis 8.2 is now GA, loaded with more performance, efficiency, and new commands",
-            "body": "<a href=\"https://redis.io/blog/redis-82-ga/\" target=\"_blank\">Redis 8.2</a> introduces faster performance, more memory optimizations, and developer-friendly enhancements that make Redis even better at what it does best – making data real time for AI agents & apps. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker Hub</a>.",
+            "title": "Redis 8.2 is now available, more performant and efficient, loaded with new commands",
+            "body": "<a href=\"https://redis.io/blog/redis-82-ga/\" target=\"_blank\">Redis 8.2</a> introduces better performance, more memory optimizations, and developer-friendly enhancements that make Redis even better at what it does best – making data real time for AI agents & apps. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker Hub</a>.",
             "category": "release",
             "categoryColor": "#805A0D",
             "timestamp": 1755189979
